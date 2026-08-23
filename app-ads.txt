@@ -1,4 +1,3 @@
-google.com, pub-8232517498948621, DIRECT, f08c47fec0942fa0
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
 aceex.io, 1926, RESELLER, b1cf3c874d5c6682
 adform.com, 716, RESELLER
@@ -61,6 +60,7 @@ eskimi.com, 2020000545, RESELLER
 eskimi.com, 2020000663, RESELLER
 freewheel.tv, 1601388, RESELLER
 freewheel.tv, 741650, RESELLER
+google.com, pub-8232517498948621, DIRECT, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 grouprvn.com, 420212011, RESELLER
